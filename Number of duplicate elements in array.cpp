@@ -22,7 +22,7 @@ int main() {
         }
     }
     cout << endl;
-    cout << "Number of duplicate elements are : " << endl;
+    cout << "Total number of duplicate elements are : " << endl;
     cout<< c << endl;
     return 0;
 }

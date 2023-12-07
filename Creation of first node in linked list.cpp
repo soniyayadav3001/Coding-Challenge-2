@@ -10,7 +10,6 @@ void create_first(int val){
     first->data = val;
     first->next = NULL;
     }
-
 void display(){
     temp = first;
     while(temp!=NULL){

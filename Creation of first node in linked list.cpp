@@ -9,7 +9,7 @@ void create_first(int val){
     first = (node *)malloc(sizeof(node));
     first->data = val;
     first->next = NULL;
-    }
+}
 void display(){
     temp = first;
     while(temp!=NULL){

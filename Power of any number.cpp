@@ -14,7 +14,6 @@ int main()
         result *= base;
         --exponent;
     }
-
     cout << result;
     
     return 0;

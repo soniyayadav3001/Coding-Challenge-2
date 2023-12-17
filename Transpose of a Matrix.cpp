@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
    int a[10][10], transpose[10][10], row, column, i, j;
 
@@ -24,7 +23,6 @@ int main() {
             cout << endl << endl;
       }
    }
-
    for (int i = 0; i < row; ++i)
       for (int j = 0; j < column; ++j) {
          transpose[j][i] = a[i][j];

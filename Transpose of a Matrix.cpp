@@ -33,6 +33,5 @@ int main() {
          if (j == row - 1)
             cout << endl << endl;
       }
-
    return 0;
 }

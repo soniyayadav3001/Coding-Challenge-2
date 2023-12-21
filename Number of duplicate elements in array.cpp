@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int main() {
  int arr[4] , c=0;
     cout << "Enter the elements of the array : " << endl;

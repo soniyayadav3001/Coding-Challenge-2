@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 struct vehicle{
     int gear;
     int wheels;

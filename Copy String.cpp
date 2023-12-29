@@ -6,7 +6,6 @@ int main()
     cout << "Enter string s1: ";
     getline (cin, s1);
     s2 = s1;
-
     cout << "s1 = "<< s1 << endl;
     cout << "s2 = "<< s2;
 

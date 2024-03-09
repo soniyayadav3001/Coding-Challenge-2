@@ -12,7 +12,7 @@ int main()
     while (exponent != 0) {
         result *= base;
         --exponent;
-    }
+    } 
     cout << result;
     return 0;
 }

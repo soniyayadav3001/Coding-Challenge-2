@@ -6,7 +6,7 @@ int main() {
     cout << "Enter the elements of the array : " << endl;
     for (int i = 0; i < 4;i++){
         cin >> arr[i];
-    }
+    } 
     cout << "Array elements are : " << endl;
     for (int i = 0; i < 4;i++){
         cout << arr[i];

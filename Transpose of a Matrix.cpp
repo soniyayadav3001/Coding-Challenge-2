@@ -11,7 +11,7 @@ int main() {
       for (int j = 0; j < column; ++j) {
          cout << "Enter element a" << i + 1 << j + 1 << ": ";
          cin >> a[i][j];
-      }
+      }  
    }
    cout << "\nEntered Matrix: " << endl;
    for (int i = 0; i < row; ++i) {

@@ -3,7 +3,7 @@ using namespace std;
 class Demo{
   int x, y;
   static int z;
-  public:
+  public: 
   void setdata(int a, int b){
     x = a;
     y = b;

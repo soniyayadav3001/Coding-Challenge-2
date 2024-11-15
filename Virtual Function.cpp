@@ -9,7 +9,7 @@ class base
     cout << "Base class\n";
   }
 };
-
+ 
 class derived:public base
 {
   public:  void show()

@@ -3,7 +3,6 @@ using namespace std;
 int main() {
     string line;
     string temp = "";
-
     cout << "Enter a string: ";
     getline(cin, line);
 

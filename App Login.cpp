@@ -2,7 +2,7 @@
 #include <string>
 using namespace std; 
 int main()
-{
+{ 
     string username = "joey";
     string password = "redhat";
     string user;

@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 void reverse(const string& a);
-
 int main() {
   string str;
 
